@@ -2,6 +2,10 @@
 
 Another test to push!!!
 
-#Another head
+#Another header
 
 More code to push
+
+## New header - local development
+
+1. Open index.html in your browser
